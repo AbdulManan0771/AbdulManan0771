@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdulManan0771
-- 👀 I’m interested in Frontend web development Internship
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Web3.0
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me abdulmanan0771@gmail.com
